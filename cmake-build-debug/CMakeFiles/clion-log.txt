@@ -1,0 +1,4 @@
+/home/mirra/clion-2019.2.2/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/mirra/CLionProjects/oopterm3/formal
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/mirra/CLionProjects/oopterm3/formal/cmake-build-debug

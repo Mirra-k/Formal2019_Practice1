@@ -1,0 +1,1 @@
+/usr/bin/c++  --coverage -g   CMakeFiles/formal.dir/main.cpp.o  -o formal lib/libgtestd.a lib/libgtest_maind.a lib/libgtestd.a -lpthread 
